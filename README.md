@@ -39,7 +39,7 @@ vi)Sequence Diagram
 <img width="1216" height="876" alt="comm1" src="https://github.com/user-attachments/assets/5d41aac1-4320-4447-9e4d-cd0753ef9640" />
 
 ## Package Diagram:
-<img width="1171" height="845" alt="package1" src="https://github.com/user-attachments/assets/6f369da4-71cd-4d97-bcac-2072afa5b1c1" />
+<img width="1080" height="863" alt="Screenshot 2025-11-09 102257" src="https://github.com/user-attachments/assets/8f1dddf5-3538-4dbe-be49-de0dd903e49d" />
 
 ## Sequence Diagram:
 <img width="1202" height="871" alt="seq1" src="https://github.com/user-attachments/assets/baf879f6-7f09-4553-b33e-023bc4eff2cd" />
